@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin-api.prod.celestia.elmenu.tn.ico",
     "slug": "admin-api-prod",
     "status": "up",
-    "uptime": "4.88%",
-    "uptimeDay": "4.88%",
-    "uptimeWeek": "4.88%",
-    "uptimeMonth": "4.88%",
-    "uptimeYear": "4.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 369,
     "timeDay": 369,
     "timeWeek": 369,
     "timeMonth": 369,
     "timeYear": 369,
-    "dailyMinutesDown": {
-      "2025-09-01": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ADMIN-API STAGING",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin-api.staging.celestia.elmenu.tn.ico",
     "slug": "admin-api-staging",
     "status": "up",
-    "uptime": "3.96%",
-    "uptimeDay": "3.96%",
-    "uptimeWeek": "3.96%",
-    "uptimeMonth": "3.96%",
-    "uptimeYear": "3.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 302,
     "timeDay": 302,
     "timeWeek": 302,
     "timeMonth": 302,
     "timeYear": 302,
-    "dailyMinutesDown": {
-      "2025-09-01": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ADMIN-UI PROD",
@@ -81,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.celestia.elmenu.tn.ico",
     "slug": "api-staging",
     "status": "up",
-    "uptime": "3.60%",
-    "uptimeDay": "3.60%",
-    "uptimeWeek": "3.60%",
-    "uptimeMonth": "3.60%",
-    "uptimeYear": "3.60%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 289,
     "timeWeek": 289,
     "timeMonth": 289,
     "timeYear": 289,
-    "dailyMinutesDown": {
-      "2025-09-01": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API PROD",
@@ -101,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/prod.celestia.elmenu.tn.ico",
     "slug": "api-prod",
     "status": "up",
-    "uptime": "2.62%",
-    "uptimeDay": "2.62%",
-    "uptimeWeek": "2.62%",
-    "uptimeMonth": "2.62%",
-    "uptimeYear": "2.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 589,
     "timeDay": 589,
     "timeWeek": 589,
     "timeMonth": 589,
     "timeYear": 589,
-    "dailyMinutesDown": {
-      "2025-09-01": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "TRACING",
