@@ -1,7 +1,7 @@
-url: https://admin-api.staging.celestia.elmenu.tn
-status: down
-code: 403
-responseTime: 283
-lastUpdated: 2025-09-01T18:20:55.334Z
+url: https://admin-api.staging.celestia.elmenu.tn/health
+status: up
+code: 200
+responseTime: 320
+lastUpdated: 2025-09-01T18:25:02.018Z
 startTime: 2025-09-01T18:20:54.791Z
 generator: Upptime <https://github.com/upptime/upptime>
