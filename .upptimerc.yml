@@ -4,17 +4,17 @@ repo: celestia-uptime # The name of this repository
 
 sites:
   - name: ADMIN-API PROD
-    url: https://admin-api.prod.celestia.elmenu.tn
+    url: https://admin-api.prod.celestia.elmenu.tn/health
   - name: ADMIN-API STAGING
-    url: https://admin-api.staging.celestia.elmenu.tn
+    url: https://admin-api.staging.celestia.elmenu.tn/health
   - name: ADMIN-UI PROD
     url: https://admin-ui.prod.celestia.elmenu.tn
   - name: ADMIN-UI STAGING
     url: https://admin-ui.staging.celestia.elmenu.tn
   - name: API STAGING
-    url: https://staging.celestia.elmenu.tn
+    url: https://staging.celestia.elmenu.tn/health
   - name: API PROD
-    url: https://prod.celestia.elmenu.tn
+    url: https://prod.celestia.elmenu.tn/health
   - name: TRACING
     url: https://celestia-tracing.onrender.com
   - name: HOMEPAGE
