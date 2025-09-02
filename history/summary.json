@@ -22,19 +22,19 @@
     "url": "https://admin-api.staging.celestia.elmenu.tn/health",
     "icon": "https://icons.duckduckgo.com/ip3/admin-api.staging.celestia.elmenu.tn.ico",
     "slug": "admin-api-staging",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 7591,
-    "timeDay": 7591,
-    "timeWeek": 7591,
-    "timeMonth": 7591,
-    "timeYear": 7591,
+    "status": "up",
+    "uptime": "98.50%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "98.50%",
+    "uptimeMonth": "98.50%",
+    "uptimeYear": "98.50%",
+    "time": 5769,
+    "timeDay": 5769,
+    "timeWeek": 5769,
+    "timeMonth": 5769,
+    "timeYear": 5769,
     "dailyMinutesDown": {
-      "2025-09-02": 1
+      "2025-09-02": 12
     }
   },
   {
