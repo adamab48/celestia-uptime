@@ -130,19 +130,19 @@
     "url": "https://home.celestia.elmenu.tn",
     "icon": "https://icons.duckduckgo.com/ip3/home.celestia.elmenu.tn.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "98.45%",
-    "uptimeDay": "98.45%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.45%",
-    "uptimeYear": "98.45%",
-    "time": 6084,
-    "timeDay": 6084,
-    "timeWeek": 6084,
-    "timeMonth": 6084,
-    "timeYear": 6084,
+    "status": "up",
+    "uptime": "95.53%",
+    "uptimeDay": "95.53%",
+    "uptimeWeek": "95.53%",
+    "uptimeMonth": "95.53%",
+    "uptimeYear": "95.53%",
+    "time": 5169,
+    "timeDay": 5169,
+    "timeWeek": 5169,
+    "timeMonth": 5169,
+    "timeYear": 5169,
     "dailyMinutesDown": {
-      "2025-09-02": 17
+      "2025-09-02": 51
     }
   }
 ]
