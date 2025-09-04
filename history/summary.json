@@ -22,18 +22,20 @@
     "url": "https://admin-api.staging.celestia.elmenu.tn/health",
     "icon": "https://icons.duckduckgo.com/ip3/admin-api.staging.celestia.elmenu.tn.ico",
     "slug": "admin-api-staging",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 7608,
     "timeDay": 22311,
     "timeWeek": 7608,
     "timeMonth": 7608,
     "timeYear": 7608,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-04": 2
+    }
   },
   {
     "name": "ADMIN-UI PROD",
@@ -130,18 +132,19 @@
     "url": "https://home.celestia.elmenu.tn",
     "icon": "https://icons.duckduckgo.com/ip3/home.celestia.elmenu.tn.ico",
     "slug": "homepage",
-    "status": "up",
-    "uptime": "98.46%",
+    "status": "down",
+    "uptime": "98.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "98.46%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "98.62%",
+    "uptimeYear": "98.62%",
     "time": 6835,
     "timeDay": 15117,
     "timeWeek": 6835,
     "timeMonth": 6835,
     "timeYear": 6835,
     "dailyMinutesDown": {
+      "2025-09-04": 0,
       "2025-09-02": 51
     }
   }
