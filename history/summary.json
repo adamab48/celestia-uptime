@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/admin-api.staging.celestia.elmenu.tn.ico",
     "slug": "admin-api-staging",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.18%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
     "time": 7608,
     "timeDay": 22311,
     "timeWeek": 7608,
     "timeMonth": 7608,
     "timeYear": 7608,
     "dailyMinutesDown": {
-      "2025-09-04": 2
+      "2025-09-04": 30
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://home.celestia.elmenu.tn",
     "icon": "https://icons.duckduckgo.com/ip3/home.celestia.elmenu.tn.ico",
     "slug": "homepage",
-    "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "98.62%",
-    "time": 6835,
-    "timeDay": 15117,
-    "timeWeek": 6835,
-    "timeMonth": 6835,
-    "timeYear": 6835,
+    "status": "up",
+    "uptime": "97.85%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "97.85%",
+    "uptimeYear": "97.85%",
+    "time": 6269,
+    "timeDay": 10468,
+    "timeWeek": 6269,
+    "timeMonth": 6269,
+    "timeYear": 6269,
     "dailyMinutesDown": {
-      "2025-09-04": 0,
+      "2025-09-04": 29,
       "2025-09-02": 51
     }
   }
